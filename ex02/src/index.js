@@ -7,6 +7,6 @@ function main(){
     return myLink;
     }
     
-    console.log(main())
+    console.log(main());
     module.exports = main;
     

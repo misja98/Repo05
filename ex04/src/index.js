@@ -5,5 +5,5 @@ function main(){
     
     return myString;
     }
-    console.log(main())
+    console.log(main());
     module.exports = main;
