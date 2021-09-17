@@ -5,8 +5,7 @@ function main(){
     //Only change code above this
     
     return myString;
-    };
-    
+    }
     console.log(main())
     module.exports = main;
     
